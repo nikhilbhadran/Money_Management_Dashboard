@@ -5,3 +5,6 @@ Built a money management dashboard with Python libraries like Pandas and NumPy f
 Click on link below to go through each and every step of the analysis
 
 [Python Code](https://github.com/nikhilbhadran/Money_Management_Dashboard/blob/main/Money%20Management.py)
+
+# Dashboard
+<p  align="center"><a href="https://github.com/nikhilbhadran"><img width="80%" src="https://github.com/nikhilbhadran/Money_Management_Dashboard/blob/main/Money%20Dashboard.png" /></a></p>
